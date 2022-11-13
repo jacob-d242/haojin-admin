@@ -1,5 +1,5 @@
 import { NativeBaseProvider, Text } from 'native-base'
-import React, { useSatate} from 'react'
+import React, { useState} from 'react'
 
 export default function Matches() {
     const [matches,setMatches] = useState()
