@@ -1,7 +1,8 @@
 import { NativeBaseProvider, Text } from 'native-base'
-import React from 'react'
+import React, { useSatate} from 'react'
 
 export default function Matches() {
+    const [matches,setMatches] = useState()
   return (
       <NativeBaseProvider>
           <Text>
