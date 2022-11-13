@@ -1,11 +1,18 @@
 import React, { useState } from "react";
 
 import { NativeBaseProvider, Text, Box, Input, Stack, Button, VStack } from "native-base";
-
+import firestore  from '@react-native-firebase/firestore'
 export default function Home() {
   const [formData, setFormData] = useState({ League: "", Home: "", Away: "", Score: "", Odd: "" });
   const handleSubmit=()=>{
-      console.log(FormData)
+    firestore()
+      .collection('Matches')
+      .add({
+      formData
+      })
+      .then(() => {
+      console.log('added')
+    })
   }
   return (
     <NativeBaseProvider>

@@ -13,6 +13,7 @@ MERGED from [:react-native-firebase_app] /mnt/3E3E10E13E1093CD/Projcects/Haojin/
 MERGED from [:react-native-safe-area-context] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-svg] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.70.4] /home/moracha/.gradle/caches/transforms-3/45184580239cb8a13258af7f4ab09f75/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/moracha/.gradle/caches/transforms-3/eb7552118701046f2690e9b7599e93ad/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-engine:0.70.4] /home/moracha/.gradle/caches/transforms-3/3a43746547acbf06f918b90ded18db4a/transformed/jetified-hermes-engine-0.70.4-debug/AndroidManifest.xml:2:1-9:12
@@ -221,6 +222,8 @@ MERGED from [:react-native-screens] /mnt/3E3E10E13E1093CD/Projcects/Haojin/admin
 MERGED from [:react-native-screens] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-svg] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-svg] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /mnt/3E3E10E13E1093CD/Projcects/Haojin/adminhaoji/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.70.4] /home/moracha/.gradle/caches/transforms-3/45184580239cb8a13258af7f4ab09f75/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.70.4] /home/moracha/.gradle/caches/transforms-3/45184580239cb8a13258af7f4ab09f75/transformed/jetified-react-native-0.70.4-debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/moracha/.gradle/caches/transforms-3/eb7552118701046f2690e9b7599e93ad/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
