@@ -44,6 +44,14 @@ export default function BottomTabs() {
                               color={focused ? COLORS.faint : "#ccc"}
                             />
                           )
+                          case "games":
+                            return (
+                              <Icon
+                                name="autorenew"
+                                size={size}
+                                color={focused ? COLORS.faint : "#ccc"}
+                              />
+                            )
                       default:
                         return null;
                     }}
@@ -52,6 +60,7 @@ export default function BottomTabs() {
             <Tab.Screen name='home' component={Home} />
           <Tab.Screen name='matches' component={Matches} />
           <Tab.Screen name='Updates' component={Updates} />
+          <Tab.Screen name="games" component={TestMatches}/>
           </Tab.Navigator>
         </NavigationContainer>
     )
